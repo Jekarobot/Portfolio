@@ -12,5 +12,5 @@
 https://jekarobot.github.io/mq-diploma/ - Дипломный сайт  
 https://replit.com/@Jekarobot/Diplom-Dopolnitielnoie-zadaniie#logic.js - Моя первая игра
 
-![Фото для портфолио](/images/7962.JPG)
+![Фото для портфолио](/Images/7962.JPG)
 
